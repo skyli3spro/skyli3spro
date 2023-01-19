@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/alrick-rubio)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/quentincharpentier)
 <br><br>
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:quentin.charpentier@epitech.eu)
 <br><br>
